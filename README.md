@@ -1,4 +1,4 @@
-# time-tracker
+# time-tracker Hi my name is Raj
 Java (Maven) application for tracking time on the job
 
 Time tracker
